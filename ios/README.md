@@ -2,8 +2,6 @@
 本教程针对 `Ios(苹果手机/Ipad)`
 
 #### 一、获取客户端
-有二种方法获取客户端
-- 在 `tg频道` [sassvpn](https://t.me/sassvpn) 中获取
 - 在苹果设备中找到`App Store`
   - 右上角找到你的头像
   ![配置](a.png)
