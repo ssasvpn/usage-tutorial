@@ -1,13 +1,10 @@
-### 使用教程
-本教程针对 `Android/Harmony(安卓/鸿蒙操作系统)`
+# `Android/Harmony(安卓/鸿蒙操作系统)`使用教程
 
-#### 一、获取客户端
-有二种方法获取客户端
-- 在 `tg频道` [sassvpn](https://t.me/sassvpn) 中获取
+### 1、获取客户端
 - 在官方 [ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid/releases) 获取
   - 推荐下载 `alpha-universal-release.apk` 版本
 
-#### 二、配置客户端
+### 2、配置客户端
 - 把订阅地址复制之后按下图中所示使用
 ![配置](1.png)
 - 新增配置
@@ -24,5 +21,5 @@
 ![点击启动](7.png)
 
 
-#### 三、已知问题：
+# 已知问题：
 - 暂无，欢迎反馈
